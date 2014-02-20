@@ -8,7 +8,7 @@ var Lungo = Lungo || {};
 if ((typeof module !== 'undefined') && module.exports) {
 
 	// add Quo as module dependencie
-	var Quo = require('quojs');
+	var Quo = require('cayasso-quojs');
 
 	// Export module
     module.exports = Lungo;

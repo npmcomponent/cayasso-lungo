@@ -1,0 +1,24 @@
+{
+  "name": "cayasso-lungo",
+  "description": "HTML5 Cross-Device Framework.",
+  "version": "2.1.0",
+  "keywords": [
+    "mobile"
+  ],
+  "styles": [
+    "lungo.css",
+    "lungo.icon.css",
+    "theme.lungo.css"
+  ],
+  "dependencies": {
+    "cayasso-quojs": "git://github.com/npmcomponent/cayasso-quojs.git"
+  },
+  "license": [
+    {
+      "type": "GPLv3"
+    },
+    {
+      "type": "Commercial"
+    }
+  ]
+}
